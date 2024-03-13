@@ -5,7 +5,7 @@
 
 ---
 
-### University of Mumbai's Affiliated Institute Terna Engineering College
+### [University of Mumbai](https://mu.ac.in/)'s Affiliated Institute [Terna Engineering College](https://ternaengg.ac.in/)
 
   #### Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)
 
