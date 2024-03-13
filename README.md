@@ -1,12 +1,11 @@
 # COMPUTER-ENGINEERING
 
-### Engineering
-
-  >**Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+  <h3 align="center"><img src="https://github.com/Amey-Thakur/COMPUTER-ENGINEERING/assets/54937357/92709461-b33c-4c3b-b063-99bbdea57d1e"></h3>
+  <h3 align="center">Bachelor of Engineering</h3>
 
 ---
 
-**University of Mumbai's Affiliated Institute Terna Engineering College**
+### University of Mumbai's Affiliated Institute Terna Engineering College
 
   >Department of General Engineering
   
