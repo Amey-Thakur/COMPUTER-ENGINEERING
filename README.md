@@ -7,7 +7,7 @@
 
 ### University of Mumbai's Affiliated Institute Terna Engineering College
 
-  >**Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+  #### Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)
 
   >Department of General Engineering
   
@@ -131,8 +131,9 @@
   | CSL803 | [Cloud Computing Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) - [Project](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) |
   | CSL804 | [Computational Lab - II](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) - [Project](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
   | CSP805 | [Major Project - II](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
+
   
-  >**Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+  ### Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)
 
 ---
 
