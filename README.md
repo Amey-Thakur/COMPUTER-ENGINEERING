@@ -7,6 +7,8 @@
 
 ### University of Mumbai's Affiliated Institute Terna Engineering College
 
+  >**Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+
   >Department of General Engineering
   
   - **F. E. Computer Engineering (Semester - I)**
