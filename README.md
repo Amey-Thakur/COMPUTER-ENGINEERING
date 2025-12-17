@@ -30,15 +30,15 @@ This repository serves as a centralized index to all academic work completed dur
 
 ## Motivation
 
-Education is not a destination but a continuous journey. This repository represents my commitment to that philosophy—a deliberate effort to preserve, organize, and revisit the foundational knowledge acquired during my undergraduate studies in Computer Engineering.
+Education is not a destination but a continuous journey. This repository represents my commitment to that philosophy: a deliberate effort to preserve, organize, and revisit the foundational knowledge acquired during my undergraduate studies in Computer Engineering.
 
-The creation of this archive stems from a fundamental belief: **true learning transcends the classroom and extends far beyond graduation**. As I navigate my professional career, I recognize that the concepts, methodologies, and problem-solving frameworks developed during these formative years remain invaluable. However, knowledge, when not actively maintained, fades. This repository serves as my intellectual foundation—a structured collection I can return to for relearning, reference, and reflection.
+The creation of this archive stems from a fundamental belief: **true learning transcends the classroom and extends far beyond graduation**. As I navigate my professional career, I recognize that the concepts, methodologies, and problem-solving frameworks developed during these formative years remain invaluable. However, knowledge, when not actively maintained, fades. This repository serves as my intellectual foundation: a structured collection I can return to for relearning, reference, and reflection.
 
 **Why this repository exists:**
 
 - **Knowledge Preservation**: To capture and maintain the depth of understanding developed across eight semesters of rigorous study
 - **Continuous Learning**: To create a resource that supports lifelong learning, enabling me to revisit fundamental principles as I encounter advanced challenges
-- **Academic Integrity**: To document my authentic academic journey—every concept studied, every project implemented, every problem solved
+- **Academic Integrity**: To document my authentic academic journey - every concept studied, every project implemented, every problem solved
 - **Open Contribution**: To share these materials with the broader community, believing that knowledge grows when freely exchanged
 
 This is more than a collection of files or a digital archive. It is a testament to four years of intellectual growth, a record of challenges overcome, and a foundation upon which future learning will be built. By making this work publicly available, I hope it serves not only my own continued education but also assists others on their learning journeys.
@@ -241,7 +241,7 @@ Grateful acknowledgment to the faculty members, mentors, and peers whose guidanc
 
 ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-**Computer Engineering (B.E.) — University of Mumbai**
+**Computer Engineering (B.E.) - University of Mumbai**
 
 *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
