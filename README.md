@@ -187,7 +187,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 
 A curated collection of engineering projects developed throughout the program, demonstrating practical application of theoretical concepts across various domains of computer science.
 
-<img src="youtube-icon.png" alt="YouTube" width="20" style="vertical-align: -3px; margin-right: 8px;"/> **Watch All Projects**: [Engineering Projects YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch_All_Projects-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)
 
 ### Featured Projects
 
