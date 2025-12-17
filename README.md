@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/0/0f/University_of_Mumbai_Emblem.png" alt="University of Mumbai" width="150"/>
+<img src="https://www.kindpng.com/picc/m/389-3895862_university-of-mumbai-logo-png-transparent-png.png" alt="University of Mumbai" width="150"/>
 
 # Computer Engineering
 
