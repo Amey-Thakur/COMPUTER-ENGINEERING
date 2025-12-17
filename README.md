@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.kindpng.com/picc/m/389-3895862_university-of-mumbai-logo-png-transparent-png.png" alt="University of Mumbai" width="150"/>
+<img src="university-of-mumbai-logo.png" alt="University of Mumbai" width="150"/>
 
 # Computer Engineering
 
