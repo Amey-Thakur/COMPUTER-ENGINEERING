@@ -12,7 +12,7 @@
 
 **A comprehensive directory of academic coursework, projects, reference materials, and learning resources from a four-year Computer Engineering program.**
 
-[★ Motivation](#motivation) · [◆ Course Catalog](#course-catalog) · [● Project Showcase](#project-showcase) · [■ License](#license)
+[🎯 Motivation](#motivation) &nbsp;·&nbsp; [🎓 Curriculum](#course-catalog) &nbsp;·&nbsp; [🚀 Project Showcase](#project-showcase) &nbsp;·&nbsp; [📜 License](#license)
 
 </div>
 
@@ -234,6 +234,13 @@ This repository and all linked academic content are made available under the **C
 **Duration**: 2018 - 2022
 
 Grateful acknowledgment to the faculty members, mentors, and peers whose guidance, collaboration, and support were instrumental throughout this academic journey. Their contributions to my learning experience are deeply appreciated.
+
+<!-- FOOTER -->
+<div align="center">
+
+  **[⬆ Back to Top](#computer-engineering)**
+
+</div>
 
 ---
 
