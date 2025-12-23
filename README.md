@@ -12,7 +12,7 @@
 
 **A comprehensive directory of academic coursework, projects, reference materials, and learning resources from a four-year Computer Engineering program.**
 
-[◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [⌨ Project Showcase](#project-showcase) &nbsp;·&nbsp; [⚖ License](#license)
+[◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [⚙ Project Showcase](#project-showcase) &nbsp;·&nbsp; [⚖ License](#license)
 
 </div>
 
