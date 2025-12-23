@@ -12,7 +12,7 @@
 
 **A comprehensive directory of academic coursework, projects, reference materials, and learning resources from a four-year Computer Engineering program.**
 
-[🎯 Motivation](#motivation) &nbsp;·&nbsp; [🎓 Curriculum](#course-catalog) &nbsp;·&nbsp; [🚀 Project Showcase](#project-showcase) &nbsp;·&nbsp; [📜 License](#license)
+[🎯 Motivation](#motivation) &nbsp;·&nbsp; [📚 Curriculum](#course-catalog) &nbsp;·&nbsp; [💻 Project Showcase](#project-showcase) &nbsp;·&nbsp; [⚖️ License](#license)
 
 </div>
 
@@ -238,7 +238,7 @@ Grateful acknowledgment to the faculty members, mentors, and peers whose guidanc
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#computer-engineering)**
+  **[↑ Back to Top](#computer-engineering)**
 
 </div>
 
