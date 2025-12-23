@@ -12,7 +12,7 @@
 
 **A comprehensive directory of academic coursework, projects, reference materials, and learning resources from a four-year Computer Engineering program.**
 
-[![Motivation](https://img.shields.io/badge/Motivation-Target-red.svg)]( #motivation ) &nbsp;·&nbsp; [![Curriculum](https://img.shields.io/badge/Curriculum-Books-blue.svg)]( #course-catalog ) &nbsp;·&nbsp; [![Project Showcase](https://img.shields.io/badge/Project%20Showcase-Laptop-green.svg)]( #project-showcase ) &nbsp;·&nbsp; [![License](https://img.shields.io/badge/License-Scales-yellow.svg)]( #license )
+[🎯 Motivation](#motivation) &nbsp;·&nbsp; [📚 Curriculum](#course-catalog) &nbsp;·&nbsp; [💻 Project Showcase](#project-showcase) &nbsp;·&nbsp; [⚖️ License](#license)
 
 </div>
 
