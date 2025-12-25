@@ -7,8 +7,8 @@
 ### Bachelor of Engineering · Academic Repository
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-[![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
-[![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+[![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+[![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
 
 **A comprehensive directory of academic coursework, projects, reference materials, and learning resources from a four-year Computer Engineering program.**
 
