@@ -1,0 +1,22 @@
+# Computer Engineering - Academic Repository
+# Specialized .gitignore for archival and documentation
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
