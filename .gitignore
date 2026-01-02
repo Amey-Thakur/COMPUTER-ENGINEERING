@@ -1,5 +1,5 @@
 # Computer Engineering - Academic Repository
-# Specialized .gitignore for archival and documentation
+# Specialized .gitignore for scholarly archiving
 
 # OS-generated files
 [Tt]humbs.db
@@ -20,3 +20,8 @@
 *.log
 .cache/
 node_modules/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old

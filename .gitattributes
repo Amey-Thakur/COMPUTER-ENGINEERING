@@ -7,6 +7,7 @@
 # Ensure text files use LF on checkout
 *.md text eol=lf
 *.txt text eol=lf
+*.cff text eol=lf
 LICENSE text eol=lf
 
 # Explicitly mark binary files to prevent corruption and optimize diffs
@@ -15,6 +16,7 @@ LICENSE text eol=lf
 *.jpeg binary
 *.gif binary
 *.pdf binary
+*.ico binary
 
 # Improve diff handling for specialized formats
 *.md text diff=markdown
