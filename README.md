@@ -260,7 +260,15 @@ Copyright © 2018 - 2022 Amey Thakur
 
 ---
 
-## Acknowledgments
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)
+
+This repository represents a high-fidelity academic archive of my intellectual journey throughout the Bachelor of Engineering program in Computer Engineering (2018-2022). It acts as a centralized index for over 50+ repositories involving core algorithms, laboratory implementations, and complex systems architecture. This digital legacy serves as both a comprehensive reference for the academic community and a testament to the rigorous engineering standards maintained across eight semesters of undergraduate study.
+
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
+
+### Acknowledgments
 
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)  
