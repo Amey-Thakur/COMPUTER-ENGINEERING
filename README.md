@@ -72,7 +72,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 #### Semester I
 
 | Code | Course Title | Repository | Project |
-|:----:|:-------------|:-----------|:--------|
+|:----:|:-------------|:----------:|:-------:|
 | FEC101 | Applied Mathematics - I | — | — |
 | FEC102 | Applied Physics - I | — | — |
 | FEC103 | Applied Chemistry - I | — | — |
@@ -84,7 +84,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 #### Semester II
 
 | Code | Course Title | Repository | Project |
-|:----:|:-------------|:-----------|:--------|
+|:----:|:-------------|:----------:|:-------:|
 | FEC201 | Applied Mathematics - II | — | — |
 | FEC202 | Applied Physics - II | — | — |
 | FEC203 | Applied Chemistry - II | — | — |
@@ -101,7 +101,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 #### Semester III
 
 | Code | Course Title | Repository | Project |
-|:----:|:-------------|:-----------|:--------|
+|:----:|:-------------|:----------:|:-------:|
 | CSC301 | Applied Mathematics - III | [Course](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III) | — |
 | CSC302 | Digital Logic Design and Analysis | [Course](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB) | — |
 | CSC303 | Discrete Mathematics | [Course](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS) | — |
@@ -115,7 +115,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 #### Semester IV
 
 | Code | Course Title | Repository | Project |
-|:----:|:-------------|:-----------|:--------|
+|:----:|:-------------|:----------:|:-------:|
 | CSC401 | Applied Mathematics - IV | [Course](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV) | — |
 | CSC402 | Analysis of Algorithm | [Course](https://github.com/Amey-Thakur/ANALYSIS-OF-ALGORITHM-AND-ANALYSIS-OF-ALGORITHM-LAB) | — |
 | CSC403 | Computer Organization and Architecture | [Course](https://github.com/Amey-Thakur/COMPUTER-ORGANIZATION-AND-ARCHITECTURE-AND-PROCESSOR-ARCHITECTURE-LAB) | — |
@@ -135,7 +135,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 #### Semester V
 
 | Code | Course Title | Repository | Project |
-|:----:|:-------------|:-----------|:--------|
+|:----:|:-------------|:----------:|:-------:|
 | CSC501 | Microprocessor | [Course](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB) | — |
 | CSC502 | Database Management System | [Course](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB) | — |
 | CSC503 | Computer Network | [Course](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB) | — |
@@ -150,7 +150,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 #### Semester VI
 
 | Code | Course Title | Repository | Project |
-|:----:|:-------------|:-----------|:--------|
+|:----:|:-------------|:----------:|:-------:|
 | CSC601 | Software Engineering | [Course](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB) | — |
 | CSC602 | System Programming and Compiler Construction | [Course](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB) | — |
 | CSC603 | Data Warehousing and Mining | [Course](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB) | — |
@@ -170,7 +170,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 #### Semester VII
 
 | Code | Course Title | Repository | Project |
-|:----:|:-------------|:-----------|:--------|
+|:----:|:-------------|:----------:|:-------:|
 | CSC701 | Digital Signal and Image Processing | [Course](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB) | — |
 | CSC702 | Mobile Communication and Computing | [Course](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB) | — |
 | CSC703 | Artificial Intelligence and Soft Computing | [Course](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB) | — |
@@ -185,7 +185,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 #### Semester VIII
 
 | Code | Course Title | Repository | Project |
-|:----:|:-------------|:-----------|:--------|
+|:----:|:-------------|:----------:|:-------:|
 | CSC801 | Human Machine Interaction | [Course](https://github.com/Amey-Thakur/HUMAN-MACHINE-INTERACTION-AND-HUMAN-MACHINE-INTERACTION-LAB) | — |
 | CSC802 | Distributed Computing | [Course](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) | — |
 | DLO8012 | Natural Language Processing | [Course](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) | — |
