@@ -192,7 +192,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 | ILO8022 | Finance Management | [Course](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT) | — |
 | CSL801 | Human Machine Interaction Lab | [Lab](https://github.com/Amey-Thakur/HUMAN-MACHINE-INTERACTION-AND-HUMAN-MACHINE-INTERACTION-LAB) | [**Online Chess Game**](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) |
 | CSL802 | Distributed Computing Lab | [Lab](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) | — |
-| CSL803 | Cloud Computing Lab | [Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) · [Certification](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) | — |
+| CSL803 | Cloud Computing Lab | [Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) | [**AWS Certified Cloud Practitioner**](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) |
 | CSL804 | Computational Lab - II | [Lab](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) | [**Text Summarizer**](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
 | CSP805 | Major Project - II | — | [**Quadtree Visualizer**](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
