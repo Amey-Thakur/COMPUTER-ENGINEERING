@@ -212,9 +212,6 @@ A curated collection of engineering projects developed throughout the program, d
 > [!IMPORTANT]
 > The **Quadtree Visualizer** serves as the major capstone implementation, synthesizing concepts from Big Data Analytics, Data Structures, and Computational Algorithms into a unified research-based project.
 
-> [!NOTE]
-> All projects listed below are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available within their respective repositories.
-
 ### Featured Projects
 
 - [x] **[Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)** · Major Capstone Project (Semesters VII-VIII)
@@ -231,6 +228,9 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[Interest Calculator](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)** · Operating Systems (Semester IV)
 - [x] **[AR Stack Game](https://github.com/Amey-Thakur/AR-STACK-GAME)** · Computer Graphics (Semester IV)
 - [x] **[Hangman Word Game](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)** · Object Oriented Programming (Semester III)
+
+> [!NOTE]
+> All projects listed above are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available within their respective repositories.
 
 ---
 
