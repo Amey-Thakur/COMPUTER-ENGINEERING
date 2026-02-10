@@ -267,7 +267,7 @@ Copyright © 2018 - 2022 Amey Thakur
 **Program**: Bachelor of Engineering in Computer Engineering  
 **Duration**: 2018 - 2022
 
-Grateful acknowledgment to the faculty members, mentors, and peers whose guidance, collaboration, and support were instrumental throughout this academic journey. Their contributions to my learning experience are deeply appreciated.
+Grateful acknowledgment to the faculty of **Terna Engineering College** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this four-year academic journey. Their contributions to my learning experience are deeply appreciated.
 
 <!-- FOOTER -->
 <div align="center">
