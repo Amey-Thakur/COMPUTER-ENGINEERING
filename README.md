@@ -141,7 +141,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSC503 | Computer Network | [Course](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB) | — |
 | CSC504 | Theory of Computer Science | [Course](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE) | — |
 | CSDLO5011 | Multimedia System | [Course](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM) | — |
-| CSL501 | Microprocessor Lab | [Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB) · [8086 ASM](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) | — |
+| CSL501 | Microprocessor Lab | [Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB) | [**8086 ASM**](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) |
 | CSL502 | Computer Network Lab | [Lab](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB) | — |
 | CSL503 | Database Management System Lab | [Lab](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB) | [**Car Rental System**](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
 | CSL504 | Web Design Lab | [Lab](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | [**Chat Room**](https://github.com/Amey-Thakur/CHAT-ROOM) |
