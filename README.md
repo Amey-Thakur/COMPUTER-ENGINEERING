@@ -208,15 +208,20 @@ A curated collection of engineering projects developed throughout the program, d
 
 ### Featured Projects
 
-- **[Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)** · Major Capstone Project (Semesters VII-VIII)
-- **[White-Box Cartoonization](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION)** · Computer Vision Mini-Project
-- **[Text Summarizer](https://github.com/Amey-Thakur/TEXT-SUMMARIZER)** · Natural Language Processing
-- **[Online Chess Game](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME)** · Human-Machine Interaction
-- **[Stock Trading Strategy Optimization](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)** · Big Data Analytics
-- **[Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)** · Software Engineering
-- **[Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)** · Database Management
-- **[AR Stack Game](https://github.com/Amey-Thakur/AR-STACK-GAME)** · Computer Graphics
-- **[COVID-19 Web Scraper](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)** · Open Source Technologies
+- [x] **[Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)** · Major Capstone Project (Semesters VII-VIII)
+- [x] **[AWS Certified Cloud Practitioner](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)** · Cloud Computing Certification (Semester VIII)
+- [x] **[Text Summarizer](https://github.com/Amey-Thakur/TEXT-SUMMARIZER)** · Natural Language Processing (Semester VIII)
+- [x] **[Online Chess Game](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME)** · Human-Machine Interaction (Semester VIII)
+- [x] **[K-Means Stock Trading](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)** · Big Data Analytics (Semester VII)
+- [x] **[White-Box Cartoonization](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION)** · Computer Vision Mini-Project (Semester VI)
+- [x] **[Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)** · Software Engineering (Semester VI)
+- [x] **[Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)** · Database Management (Semester V)
+- [x] **[Chat Room](https://github.com/Amey-Thakur/CHAT-ROOM)** · Web Designing (Semester V)
+- [x] **[8086 ASM](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)** · Microprocessor Programming (Semester V)
+- [x] **[COVID-19 Web Scraper](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)** · Open Source Technologies (Semester IV)
+- [x] **[Interest Calculator](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR)** · Operating Systems (Semester IV)
+- [x] **[AR Stack Game](https://github.com/Amey-Thakur/AR-STACK-GAME)** · Computer Graphics (Semester IV)
+- [x] **[Hangman Word Game](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)** · Object Oriented Programming (Semester III)
 
 ---
 
