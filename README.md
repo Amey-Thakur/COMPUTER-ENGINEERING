@@ -13,7 +13,20 @@
 
 **A comprehensive directory of academic coursework, projects, reference materials, and learning resources from a four-year Computer Engineering program.**
 
-[◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [★ Project Showcase](#project-showcase) &nbsp;·&nbsp; [© License](#license)
+[👤 Author](#author) &nbsp;·&nbsp; [◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [★ Project Showcase](#project-showcase) &nbsp;·&nbsp; [© License](#license)
+
+</div>
+
+---
+
+<!-- AUTHORS -->
+<div align="center">
+
+  <a name="author"></a>
+  ## Author
+
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) |
+| :---: |
 
 </div>
 
