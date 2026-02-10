@@ -269,10 +269,14 @@ Copyright © 2018 - 2022 Amey Thakur
 
 Grateful acknowledgment to the faculty of **Terna Engineering College** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this four-year academic journey. Their contributions to my learning experience are deeply appreciated.
 
+---
+
 <!-- FOOTER -->
 <div align="center">
 
   **[↑ Back to Top](#computer-engineering)**
+
+  [◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [★ Project Showcase](#project-showcase) &nbsp;·&nbsp; [© License](#license)
 
 </div>
 
