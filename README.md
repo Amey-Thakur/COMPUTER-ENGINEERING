@@ -66,6 +66,9 @@ This is more than a collection of files or a digital archive. It is a testament 
 
 The curriculum is organized chronologically by academic year and semester, progressing from foundational engineering principles to advanced computing specializations.
 
+> [!TIP]
+> Each **Course** and **Lab** link navigates directly to a dedicated repository containing extensive lecture notes, assignment solutions, and reference materials for that specific subject.
+
 ### First Year Engineering
 **Department of General Engineering**
 
@@ -202,9 +205,15 @@ The curriculum is organized chronologically by academic year and semester, progr
 
 A curated collection of engineering projects developed throughout the program, demonstrating practical application of theoretical concepts across various domains of computer science.
 
-<p align="center">
+<div align="center">
   <a href="https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn"><img src="youtube-icon.png" alt="YouTube" width="32" align="middle"></a>&nbsp; <b>Watch All Projects:</b> <a href="https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn">Engineering Projects YouTube Playlist</a>
-</p>
+</div>
+
+> [!IMPORTANT]
+> The **Quadtree Visualizer** serves as the major capstone implementation, synthesizing concepts from Big Data Analytics, Data Structures, and Computational Algorithms into a unified research-based project.
+
+> [!NOTE]
+> All projects listed below are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available within their respective repositories.
 
 ### Featured Projects
 
