@@ -11,6 +11,8 @@
 [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
 [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
+**[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** · *Personal Research Space & Scholarly Notes*
+
 **A comprehensive directory of academic coursework, projects, reference materials, and learning resources from a four-year Computer Engineering program.**
 
 [◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [★ Project Showcase](#project-showcase) &nbsp;·&nbsp; [© License](#license)
@@ -238,7 +240,7 @@ A curated collection of engineering projects developed throughout the program, d
 > **Mastery Index Navigation**: This section is organized by technical domain (e.g., **AI**, **Ruby**, **Mobile**). Foundations and Challenges precede full-scale implementations to demonstrate the complete learning curve.
 
 🤖 **Artificial Intelligence & Neural Research**
-- [x] **[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** · Personal Research Space & Scholarly Notes
+- [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
 - [x] **[Deepfake Audio Synthesis](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO)** · Neural TTS Zero-Shot Voice Cloning (SV2TTS)
 - [x] **[Sentiment Analyzer](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)** · Hybrid NLP Core & Sentiment Analysis Engine
 - [x] **[Depression Detection](https://github.com/Amey-Thakur/DEPRESSION_DETECTION_USING_TWEETS)** · Predictive Neural Pipeline for Mental Health Analysis
