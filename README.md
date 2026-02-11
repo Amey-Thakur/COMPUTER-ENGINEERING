@@ -243,6 +243,13 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
+- [x] **[Ruby on Rails FriendsApp](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP)** · Ruby on Rails Web Application
+- [x] **[RailsFriends](https://github.com/Amey-Thakur/RAILSFRIENDS)** · Ruby on Rails Implementation
+- [x] **[Hangman in Ruby](https://github.com/Amey-Thakur/HANGMAN-IN-RUBY)** · Ruby Programming Challenge
+- [x] **[Tic-Tac-Toe in Ruby](https://github.com/Amey-Thakur/TIC-TAC-TOE-IN-RUBY)** · Ruby Programming Challenge
+- [x] **[30 Days of Ruby](https://github.com/Amey-Thakur/RUBY)** · Language Mastery Challenge
+- [x] **[30 Days of R](https://github.com/Amey-Thakur/R)** · Statistical Computing Challenge
+- [x] **[50 Days of Julia](https://github.com/Amey-Thakur/JULIA)** · Scientific Computing Challenge
 - [x] **[Lunar Design Studio](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO)** · Web Design
 - [x] **[Android Studio Flashlight](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT)** · Mobile Application Development
 - [x] **[Android Studio Calculator](https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR)** · Mobile Application Development
