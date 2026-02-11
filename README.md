@@ -354,7 +354,11 @@ Grateful acknowledgment to the faculty of **Terna Engineering College** for thei
 
 <div align="center">
 
-**🎓 Related Repository:** [MEng Computer Engineering](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
+**🎓 Related Repository:** [MEng Computer Engineering (Graduate)](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
+
+**Computer Engineering (M.Eng) - University of Windsor**
+
+*Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 ---
 
