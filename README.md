@@ -236,7 +236,7 @@ A curated collection of engineering projects developed throughout the program, d
 
 ### Additional Initiatives
 
-- [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component
+- [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
 
 ---
 
