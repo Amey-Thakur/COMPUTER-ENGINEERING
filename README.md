@@ -236,30 +236,32 @@ A curated collection of engineering projects developed throughout the program, d
 
 ### Additional Initiatives
 
-🧬 **Neural Intelligence & Research Archive**
+🤖 **Artificial Intelligence & Neural Research**
 - [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
 - [x] **[Deepfake Audio Synthesis](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO)** · Neural TTS Zero-Shot Voice Cloning (SV2TTS)
 - [x] **[Sentiment Analyzer](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)** · Hybrid NLP Core & Sentiment Analysis Engine
 - [x] **[Depression Detection](https://github.com/Amey-Thakur/DEPRESSION_DETECTION_USING_TWEETS)** · Predictive Neural Pipeline for Mental Health Analysis
 
-📈 **Quant Finance & Algorithmic Trading**
+📊 **Machine Learning & Predictive Analytics**
 - [x] **[Stock Trading Strategy RL](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING)** · Q-Learning Portfolio Optimization & Strategy Synthesis
 - [x] **[Reinforcement Learning Strategy](https://github.com/Amey-Thakur/Optimizing-Stock-Trading-Using-Reinforcement-Learning-DST)** · Technocolabs Intelligent Trading Internship
 - [x] **[Kaggle Courses](https://github.com/Amey-Thakur/KAGGLE-COURSES)** · Algorithmic Foundations & Data Science Mastery
 - [x] **[House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)** · Multivariate Regression Analysis & Predictive Modeling
+- [x] **[Unsupervised ML Mission](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING)** · The Sparks Foundation Internship
+- [x] **[Supervised ML Mission](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING)** · The Sparks Foundation Internship
 
-🛡️ **Professional Missions (The Sparks Foundation)**
+💼 **Professional Machine Learning Missions (TSF)**
 - [x] **[Unsupervised ML](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING)** · K-Means Clustering & Centroid Discovery
 - [x] **[Supervised ML](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING)** · Linear Regression & Predictive Analytics
 
-⚡ **High-Performance Full-Stack Systems**
+🌐 **Full Stack Engineering & Distributed Computing**
 - [x] **[React Todo App](https://github.com/Amey-Thakur/REACT-TODO-APP)** · Modern SPA Architecture & React Implementation
 - [x] **[Tic-Tac-Toe in Angular](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK)** · Enterprise-Scale Angular Framework Implementation
 - [x] **[JavaScript Frameworks](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS)** · Comparative Study of 10 Modern SPA Paradigms
 - [x] **[Hangman in Django](https://github.com/Amey-Thakur/HANGMAN-GAME-IN-DJANGO-PYTHON)** · RESTful Backend Architecture & Django Sync
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Distributed Computing & Big Data Analytics (Semester VII)
 
-**💎 Ruby & Rails Ecosystem**
+💎 **Ruby Language & Algorithmic Foundations**
 - [x] **[30 Days of Ruby](https://github.com/Amey-Thakur/RUBY)** · Foundational Language Mastery Challenge
 - [x] **[Hangman in Ruby](https://github.com/Amey-Thakur/HANGMAN-IN-RUBY)** · Logic Synthesis & Ruby Challenge
 - [x] **[Tic-Tac-Toe in Ruby](https://github.com/Amey-Thakur/TIC-TAC-TOE-IN-RUBY)** · Algorithmic Competitive Programming Challenge
@@ -280,13 +282,15 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[Flappy Bird](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME)** · Pygame Physics & Logic Implementation
 - [x] **[Pong Game](https://github.com/Amey-Thakur/PONG-GAME)** · Classic Logic Synthesis & Game Loop Design
 
-📱 **Mobile Engineering & Lab Discovery**
+📱 **Mobile Application Engineering (Android)**
 - [x] **[Android Studio Flashlight](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT)** · Hardware Interfacing & Mobile Arch
 - [x] **[Android Studio Calculator](https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR)** · Logic Implementation & UI Engineering
+
+🎨 **Creative Web Design & Interface Discovery**
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Discovery & Lab Component (Semester V)
 - [x] **[Lunar Design Studio](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO)** · Independent Creative Design Studio
 
-🏆 **Distinguished Achievements & Records**
+🏅 **Scholarly Achievements & Professional Records**
 - [x] **[Achievements](https://github.com/Amey-Thakur/ACHIEVEMENTS)** · Official Record of Certifications & Commendations
 
 ---
