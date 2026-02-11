@@ -234,6 +234,12 @@ A curated collection of engineering projects developed throughout the program, d
 
 ---
 
+### Additional Initiatives
+
+- [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component
+
+---
+
 ## Usage Guidelines
 
 This repository is openly shared to support learning and knowledge exchange across the academic community.
