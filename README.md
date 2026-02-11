@@ -243,6 +243,9 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
+- [x] **[Tic-Tac-Toe in Angular](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK)** · Angular Web Application
+- [x] **[JavaScript Frameworks](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS)** · Comparative Study of 10 Modern JS Frameworks
+- [x] **[React Todo App](https://github.com/Amey-Thakur/REACT-TODO-APP)** · React Web Application
 - [x] **[Ruby on Rails FriendsApp](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP)** · Ruby on Rails Web Application
 - [x] **[RailsFriends](https://github.com/Amey-Thakur/RAILSFRIENDS)** · Ruby on Rails Implementation
 - [x] **[Hangman in Ruby](https://github.com/Amey-Thakur/HANGMAN-IN-RUBY)** · Ruby Programming Challenge
