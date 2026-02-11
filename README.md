@@ -96,7 +96,6 @@ The curriculum is organized chronologically by academic year and semester, progr
 | FEC206 | Communication Skills | — | — |
 | FEL201 | Basic Workshop Practice - II | — | — |
 
----
 
 ### Second Year Engineering
 **Department of Computer Engineering**
