@@ -236,16 +236,56 @@ A curated collection of engineering projects developed throughout the program, d
 
 ### Additional Initiatives
 
-- [x] 🧠 **AI & RESEARCH ARCHIVE** · [ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE), [Deepfake Audio Synthesis](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO), [Sentiment Analyzer](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER), [Depression Detection](https://github.com/Amey-Thakur/DEPRESSION_DETECTION_USING_TWEETS)
-- [x] 🧠 **DATA SCIENCE & TRADING SERIES** · [RL Trading Strategy](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING), [Reinforcement Learning Strategy](https://github.com/Amey-Thakur/Optimizing-Stock-Trading-Using-Reinforcement-Learning-DST), [Kaggle Courses](https://github.com/Amey-Thakur/KAGGLE-COURSES), [House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
-- [x] 🧠 **MACHINE LEARNING INTERNSHIPS** · [Unsupervised ML](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) & [Supervised ML](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) (The Sparks Foundation)
-- [x] 🌐 **MODERN FRAMEWORK ECOSYSTEM** · [React Todo App](https://github.com/Amey-Thakur/REACT-TODO-APP), [Tic-Tac-Toe in Angular](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK), [JavaScript Frameworks](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS), [Hangman in Django](https://github.com/Amey-Thakur/HANGMAN-GAME-IN-DJANGO-PYTHON)
-- [x] 💎 **RUBY & RAILS MASTERY** · [Ruby on Rails FriendsApp](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP), [RailsFriends](https://github.com/Amey-Thakur/RAILSFRIENDS), [30 Days of Ruby](https://github.com/Amey-Thakur/RUBY), [Hangman in Ruby](https://github.com/Amey-Thakur/HANGMAN-IN-RUBY), [Tic-Tac-Toe in Ruby](https://github.com/Amey-Thakur/TIC-TAC-TOE-IN-RUBY)
-- [x] 🏅 **LANGUAGE MASTERY ARCHIVE** · [Python Shorts](https://github.com/Amey-Thakur/PYTHON-SHORTS), [Python Crash Course](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE), [30 Days of R](https://github.com/Amey-Thakur/R), [50 Days of Julia](https://github.com/Amey-Thakur/JULIA)
-- [x] 📱 **MOBILE & DESIGN ARCHIVE** · [Android Studio Flashlight](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT), [Android Studio Calculator](https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR), [Lunar Design Studio](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO)
-- [x] 🛠️ **SYSTEMS & HMI LOGIC** · [Hadoop](https://github.com/Amey-Thakur/HADOOP), [ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE), [Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)
-- [x] 🎮 **GAME LOGIC COLLECTION** · [The Math Game](https://github.com/Amey-Thakur/THE-MATH-GAME), [Math Sprint Game](https://github.com/Amey-Thakur/MATH-SPRINT-GAME), [Rock Paper Scissors](https://github.com/Amey-Thakur/ROCK-PAPER-SCISSORS), [Flappy Bird](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME), [Pong Game](https://github.com/Amey-Thakur/PONG-GAME)
-- [x] 🎖️ **PROFESSIONAL MILESTONES** · [Achievements](https://github.com/Amey-Thakur/ACHIEVEMENTS) · Record of Certifications & Commendations
+**🧠 Intelligent Systems & Research Archive**
+- [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
+- [x] **[Deepfake Audio Synthesis](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO)** · Neural TTS Zero-Shot Voice Cloning
+- [x] **[Sentiment Analyzer](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)** · Hybrid NLP Sentiment Analysis Engine
+- [x] **[Depression Detection](https://github.com/Amey-Thakur/DEPRESSION_DETECTION_USING_TWEETS)** · Predictive NLP Pipeline for Mental Health
+
+**🧠 Data Science & Analytics Series**
+- [x] **[RL Trading Strategy](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING)** · Q-Learning Portfolio Optimization
+- [x] **[Reinforcement Learning Strategy](https://github.com/Amey-Thakur/Optimizing-Stock-Trading-Using-Reinforcement-Learning-DST)** · Technocolabs Machine Learning Internship
+- [x] **[Kaggle Courses](https://github.com/Amey-Thakur/KAGGLE-COURSES)** · Mastery Archive of ML & Data Science Certifications
+- [x] **[House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)** · Multivariate Regression Analysis Study
+- [x] **[Unsupervised ML](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING)** · The Sparks Foundation Internship
+- [x] **[Supervised ML](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING)** · The Sparks Foundation Internship
+
+**🌐 Modern Framework Ecosystem**
+- [x] **[React Todo App](https://github.com/Amey-Thakur/REACT-TODO-APP)** · React Web Application
+- [x] **[Tic-Tac-Toe in Angular](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK)** · Angular Web Application
+- [x] **[JavaScript Frameworks](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS)** · Comparative Study of 10 Frameworks
+- [x] **[Hangman in Django](https://github.com/Amey-Thakur/HANGMAN-GAME-IN-DJANGO-PYTHON)** · RESTful Django Implementation
+
+**💎 Ruby & Rails Mastery**
+- [x] **[Ruby on Rails FriendsApp](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP)** · Ruby on Rails Web Application
+- [x] **[RailsFriends](https://github.com/Amey-Thakur/RAILSFRIENDS)** · Ruby on Rails Implementation
+- [x] **[30 Days of Ruby](https://github.com/Amey-Thakur/RUBY)** · Language Mastery Challenge
+- [x] **[Hangman in Ruby](https://github.com/Amey-Thakur/HANGMAN-IN-RUBY)** · Ruby Programming Challenge
+- [x] **[Tic-Tac-Toe in Ruby](https://github.com/Amey-Thakur/TIC-TAC-TOE-IN-RUBY)** · Ruby Programming Challenge
+
+**🏅 Language Mastery Archive**
+- [x] **[Python Shorts](https://github.com/Amey-Thakur/PYTHON-SHORTS)** · Algorithms & Logic Synthesis (100+ Programs)
+- [x] **[Python Crash Course](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)** · 12-Day Mastery Challenge
+- [x] **[30 Days of R](https://github.com/Amey-Thakur/R)** · Statistical Computing Challenge
+- [x] **[50 Days of Julia](https://github.com/Amey-Thakur/JULIA)** · Scientific Computing Challenge
+
+**📱 Mobile & Web Design Archive**
+- [x] **[Android Studio Flashlight](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT)** · Independent Android Application
+- [x] **[Android Studio Calculator](https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR)** · Independent Android Application
+- [x] **[Lunar Design Studio](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO)** · Web Design
+
+**🛠️ Systems & HMI Logic**
+- [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
+- [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
+- [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
+- [x] **[Rock Paper Scissors](https://github.com/Amey-Thakur/ROCK-PAPER-SCISSORS)** · Human Machine Interaction (Semester VIII)
+- [x] **[The Math Game](https://github.com/Amey-Thakur/THE-MATH-GAME)** · Human Machine Interaction (Semester VIII)
+- [x] **[Math Sprint Game](https://github.com/Amey-Thakur/MATH-SPRINT-GAME)** · Human Machine Interaction (Semester VIII)
+- [x] **[Flappy Bird](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME)** · Python Game Development
+- [x] **[Pong Game](https://github.com/Amey-Thakur/PONG-GAME)** · Python Game Development
+
+**🎖️ Professional Milestones**
+- [x] **[Achievements](https://github.com/Amey-Thakur/ACHIEVEMENTS)** · Record of Certifications & Commendations
 
 ---
 
