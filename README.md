@@ -243,8 +243,8 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
-- [x] **[Flappy Bird](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME)** · Python Development (Semester III)
-- [x] **[Pong Game](https://github.com/Amey-Thakur/PONG-GAME)** · Python Development (Semester III)
+- [x] **[Flappy Bird](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME)** · Open Source Tech Lab (Semester IV)
+- [x] **[Pong Game](https://github.com/Amey-Thakur/PONG-GAME)** · Open Source Tech Lab (Semester IV)
 
 ---
 
