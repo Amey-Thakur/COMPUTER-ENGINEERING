@@ -11,8 +11,6 @@
 [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
 [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-**[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** · *Personal Research Space & Scholarly Notes*
-
 **A comprehensive directory of academic coursework, projects, reference materials, and learning resources from a four-year Computer Engineering program.**
 
 [◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [★ Project Showcase](#project-showcase) &nbsp;·&nbsp; [© License](#license)
@@ -216,6 +214,7 @@ A curated collection of engineering projects developed throughout the program, d
 
 ### Featured Projects
 
+- [x] **[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** · **Personal Research Space & Scholarly Notes**
 - [x] **[Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)** · Major Capstone Project (Semesters VII-VIII)
 - [x] **[AWS Certified Cloud Practitioner](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)** · Cloud Computing Certification (Semester VIII)
 - [x] **[Text Summarizer](https://github.com/Amey-Thakur/TEXT-SUMMARIZER)** · Natural Language Processing (Semester VIII)
