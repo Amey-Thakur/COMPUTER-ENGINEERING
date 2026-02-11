@@ -260,11 +260,11 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Distributed Computing & Big Data Analytics (Semester VII)
 
 **💎 Ruby & Rails Ecosystem**
-- [x] **[Ruby on Rails FriendsApp](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP)** · Ruby on Rails Web Application
-- [x] **[RailsFriends](https://github.com/Amey-Thakur/RAILSFRIENDS)** · Ruby on Rails Implementation (Mirror)
-- [x] **[30 Days of Ruby](https://github.com/Amey-Thakur/RUBY)** · Language Mastery Challenge
-- [x] **[Hangman in Ruby](https://github.com/Amey-Thakur/HANGMAN-IN-RUBY)** · Ruby Programming Challenge
-- [x] **[Tic-Tac-Toe in Ruby](https://github.com/Amey-Thakur/TIC-TAC-TOE-IN-RUBY)** · Ruby Programming Challenge
+- [x] **[30 Days of Ruby](https://github.com/Amey-Thakur/RUBY)** · Foundational Language Mastery Challenge
+- [x] **[Hangman in Ruby](https://github.com/Amey-Thakur/HANGMAN-IN-RUBY)** · Logic Synthesis & Ruby Challenge
+- [x] **[Tic-Tac-Toe in Ruby](https://github.com/Amey-Thakur/TIC-TAC-TOE-IN-RUBY)** · Algorithmic Competitive Programming Challenge
+- [x] **[Ruby on Rails FriendsApp](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP)** · Full-Stack Rails Implementation & Deployment
+- [x] **[RailsFriends](https://github.com/Amey-Thakur/RAILSFRIENDS)** · Ruby on Rails Implementation (Archive Mirror)
 
 🐍 **Polyglot Mastery & Logic Synthesis**
 - [x] **[Python Shorts](https://github.com/Amey-Thakur/PYTHON-SHORTS)** · Algorithmic Synthesis Archive (100+ Programs)
