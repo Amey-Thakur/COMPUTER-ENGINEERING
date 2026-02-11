@@ -354,6 +354,10 @@ Grateful acknowledgment to the faculty of **Terna Engineering College** for thei
 
 <div align="center">
 
+**🎓 Related Repository:** [MEng Computer Engineering](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
+
+---
+
 ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
 **Computer Engineering (B.E.) - University of Mumbai**
