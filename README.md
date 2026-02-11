@@ -198,7 +198,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 
 ---
 
-## Project Showcase
+## Computer Engineering & Applied Research Projects
 
 A curated collection of engineering projects developed throughout the program, demonstrating practical application of theoretical concepts across various domains of computer science.
 
@@ -211,7 +211,7 @@ A curated collection of engineering projects developed throughout the program, d
 >
 > The **Quadtree Visualizer** serves as the major capstone implementation, synthesizing concepts from Big Data Analytics, Data Structures, and Computational Algorithms into a unified research-based project.
 
-### Computer Engineering & Applied Research Projects
+### Featured Projects
 
 - [x] **[Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)** · Major Capstone Project (Semesters VII-VIII)
 - [x] **[AWS Certified Cloud Practitioner](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)** · Cloud Computing Certification (Semester VIII)
