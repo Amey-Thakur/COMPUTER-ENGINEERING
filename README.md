@@ -243,6 +243,7 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
+- [x] **[Achievements](https://github.com/Amey-Thakur/ACHIEVEMENTS)** · Comprehensive Record of Certifications and Milestones
 - [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion and Scholarly Archival Mirror
 - [x] **[Kaggle Courses](https://github.com/Amey-Thakur/KAGGLE-COURSES)** · Mastery Archive of Data Science and Machine Learning Certifications
 - [x] **[Reinforcement Learning Strategy](https://github.com/Amey-Thakur/Optimizing-Stock-Trading-Using-Reinforcement-Learning-DST)** · Technocolabs Machine Learning Internship
