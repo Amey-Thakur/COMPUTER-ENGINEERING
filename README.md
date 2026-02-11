@@ -114,7 +114,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSL301 | Digital System Lab | [Lab](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB) | — |
 | CSL302 | Basic Electronics Lab | [Lab](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB) | — |
 | CSL303 | Data Structure Lab | [Lab](https://github.com/Amey-Thakur/DATA-STRUCTURES-AND-DATA-STRUCTURES-LAB) | — |
-| CSL304 | OOPM (Java) Lab | [Lab](https://github.com/Amey-Thakur/OOPM-JAVA-LAB) | [**Hangman Word Game**](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
+| CSL304 | OOPM (Java) Lab | [Lab](https://github.com/Amey-Thakur/OOPM-JAVA-LAB) | [Hangman Word Game](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 
 #### Semester IV
 
@@ -126,10 +126,10 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSC404 | Computer Graphics | [Course](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB) | — |
 | CSC405 | Operating System | [Course](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) | — |
 | CSL401 | Analysis of Algorithms Lab | [Lab](https://github.com/Amey-Thakur/ANALYSIS-OF-ALGORITHM-AND-ANALYSIS-OF-ALGORITHM-LAB) | — |
-| CSL402 | Computer Graphics Lab | [Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB) | [**AR Stack Game**](https://github.com/Amey-Thakur/AR-STACK-GAME) |
+| CSL402 | Computer Graphics Lab | [Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB) | [AR Stack Game](https://github.com/Amey-Thakur/AR-STACK-GAME) |
 | CSL403 | Processor Architecture Lab | [Lab](https://github.com/Amey-Thakur/COMPUTER-ORGANIZATION-AND-ARCHITECTURE-AND-PROCESSOR-ARCHITECTURE-LAB) | — |
-| CSL404 | Operating System Lab | [Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) | [**Interest Calculator**](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) |
-| CSL405 | Open Source Tech Lab | [Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB) | [**COVID-19 Web Scraper**](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) |
+| CSL404 | Operating System Lab | [Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) | [Interest Calculator](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) |
+| CSL405 | Open Source Tech Lab | [Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB) | [COVID-19 Web Scraper](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) |
 
 
 ### Third Year Engineering
@@ -144,10 +144,10 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSC503 | Computer Network | [Course](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB) | — |
 | CSC504 | Theory of Computer Science | [Course](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE) | — |
 | CSDLO5011 | Multimedia System | [Course](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM) | — |
-| CSL501 | Microprocessor Lab | [Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB) | [**8086 ASM**](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) |
+| CSL501 | Microprocessor Lab | [Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB) | [8086 ASM](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) |
 | CSL502 | Computer Network Lab | [Lab](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB) | — |
-| CSL503 | Database Management System Lab | [Lab](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB) | [**Car Rental System**](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
-| CSL504 | Web Design Lab | [Lab](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | [**Chat Room**](https://github.com/Amey-Thakur/CHAT-ROOM) |
+| CSL503 | Database Management System Lab | [Lab](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB) | [Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
+| CSL504 | Web Design Lab | [Lab](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | [Chat Room](https://github.com/Amey-Thakur/CHAT-ROOM) |
 | CSL505 | Business Communication & Ethics | [Course](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS) | — |
 
 #### Semester VI
@@ -159,11 +159,11 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSC603 | Data Warehousing and Mining | [Course](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB) | — |
 | CSC604 | Cryptography and System Security | [Course](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) | — |
 | CSDLO6021 | Machine Learning | [Course](https://github.com/Amey-Thakur/MACHINE-LEARNING) | — |
-| CSL601 | Software Engineering Lab | [Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB) | [**Digital Bookstore**](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
+| CSL601 | Software Engineering Lab | [Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB) | [Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
 | CSL602 | System Software Lab | [Lab](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB) | — |
 | CSL603 | Data Warehousing and Mining Lab | [Lab](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB) | — |
 | CSL604 | System Security Lab | [Lab](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) | — |
-| CSM605 | Mini-Project | — | [**White-Box Cartoonization**](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) |
+| CSM605 | Mini-Project | — | [White-Box Cartoonization](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) |
 
 
 ### Fourth Year Engineering
@@ -181,8 +181,8 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSL701 | Digital Signal and Image Processing Lab | [Lab](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB) | — |
 | CSL702 | Mobile Application Development Lab | [Lab](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB) | — |
 | CSL703 | Artificial Intelligence and Soft Computing Lab | [Lab](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB) | — |
-| CSL704 | Computational Lab - I | [Lab](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I) | [**K-Means Stock Trading**](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) |
-| CSP705 | Major Project - I | — | [**Quadtree Visualizer**](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
+| CSL704 | Computational Lab - I | [Lab](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I) | [K-Means Stock Trading](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) |
+| CSP705 | Major Project - I | — | [Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
 #### Semester VIII
 
@@ -192,11 +192,11 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSC802 | Distributed Computing | [Course](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) | — |
 | DLO8012 | Natural Language Processing | [Course](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) | — |
 | ILO8022 | Finance Management | [Course](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT) | — |
-| CSL801 | Human Machine Interaction Lab | [Lab](https://github.com/Amey-Thakur/HUMAN-MACHINE-INTERACTION-AND-HUMAN-MACHINE-INTERACTION-LAB) | [**Online Chess Game**](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) |
+| CSL801 | Human Machine Interaction Lab | [Lab](https://github.com/Amey-Thakur/HUMAN-MACHINE-INTERACTION-AND-HUMAN-MACHINE-INTERACTION-LAB) | [Online Chess Game](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) |
 | CSL802 | Distributed Computing Lab | [Lab](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) | — |
-| CSL803 | Cloud Computing Lab | [Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) | [**AWS Certified Cloud Practitioner**](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) |
-| CSL804 | Computational Lab - II | [Lab](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) | [**Text Summarizer**](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
-| CSP805 | Major Project - II | — | [**Quadtree Visualizer**](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
+| CSL803 | Cloud Computing Lab | [Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) | [AWS Certified Cloud Practitioner](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) |
+| CSL804 | Computational Lab - II | [Lab](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) | [Text Summarizer](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
+| CSP805 | Major Project - II | — | [Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
 ---
 
