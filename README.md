@@ -243,6 +243,7 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
+- [x] **[Lunar Design Studio](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO)** · Web Design
 - [x] **[Android Studio Flashlight](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT)** · Mobile Application Development
 - [x] **[Android Studio Calculator](https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR)** · Mobile Application Development
 - [x] **[Flappy Bird](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME)** · Python Game Development
