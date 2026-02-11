@@ -234,10 +234,10 @@ A curated collection of engineering projects developed throughout the program, d
 > [!NOTE]
 > All projects listed above are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available within their respective repositories.
 
-### Technical Domains & Research Tracks
+### Research Domains & Applied Engineering
 
 > [!TIP]
-> **[!] Track Organization**: Organized by specialized engineering domains. Each track follows a progression from foundational concepts to advanced system implementations.
+> **[!] Domain Logic**: Independent research tracks organized by field of study. Each section documents the translation of theoretical concepts into functional software implementations.
 
 🤖 **Artificial Intelligence & Neural Research**
 - [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
