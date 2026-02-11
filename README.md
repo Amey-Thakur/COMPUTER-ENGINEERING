@@ -235,9 +235,10 @@ A curated collection of engineering projects developed throughout the program, d
 > All projects listed above are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available within their respective repositories.
 
 ### Research Domains & Applied Engineering
+*A systematic archive of independent technical initiatives and research tracks established throughout the Computer Engineering program.*
 
 > [!TIP]
-> **[!] Domain Logic**: Independent research tracks organized by field of study. Each section documents the translation of theoretical concepts into functional software implementations.
+> **[!] Strategic Learning Path**: Repositories in each track are sequenced to demonstrate the evolution from **algorithmic theory** to **production-grade implementation**.
 
 🤖 **Artificial Intelligence & Neural Research**
 - [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
