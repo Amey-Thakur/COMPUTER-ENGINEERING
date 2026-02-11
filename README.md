@@ -210,11 +210,12 @@ A curated collection of engineering projects developed throughout the program, d
 </div>
 
 > [!IMPORTANT]
+> **[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** serves as the personal research space for notes, reflections, and ideas in progress. Some thoughts are fully formed, others are just sparks, but all are here to explore, share, and grow.
+>
 > The **Quadtree Visualizer** serves as the major capstone implementation, synthesizing concepts from Big Data Analytics, Data Structures, and Computational Algorithms into a unified research-based project.
 
 ### Featured Projects
 
-- [x] **[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** · **Personal Research Space & Scholarly Notes**
 - [x] **[Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER)** · Major Capstone Project (Semesters VII-VIII)
 - [x] **[AWS Certified Cloud Practitioner](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01)** · Cloud Computing Certification (Semester VIII)
 - [x] **[Text Summarizer](https://github.com/Amey-Thakur/TEXT-SUMMARIZER)** · Natural Language Processing (Semester VIII)
