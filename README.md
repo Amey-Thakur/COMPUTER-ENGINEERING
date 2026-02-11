@@ -237,7 +237,7 @@ A curated collection of engineering projects developed throughout the program, d
 *A systematic archive of **proactive technical tracks** and **self-directed research initiatives** established beyond the core curriculum.*
 
 > [!TIP]
-> **[!] Applied Research Methodology**: Unlike prescribed coursework, these tracks focus on **experimental application**, translating abstract theoretical concepts into functional, domain-specific architectures.
+> **Applied Research Methodology**: Unlike prescribed coursework, these tracks focus on **experimental application**, translating abstract theoretical concepts into functional, domain-specific architectures.
 
 🤖 **Artificial Intelligence & Neural Research**
 - [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
