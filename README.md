@@ -129,7 +129,6 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSL404 | Operating System Lab | [Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) | [**Interest Calculator**](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) |
 | CSL405 | Open Source Tech Lab | [Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB) | [**COVID-19 Web Scraper**](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) |
 
----
 
 ### Third Year Engineering
 **Department of Computer Engineering**
@@ -164,7 +163,6 @@ The curriculum is organized chronologically by academic year and semester, progr
 | CSL604 | System Security Lab | [Lab](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) | — |
 | CSM605 | Mini-Project | — | [**White-Box Cartoonization**](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) |
 
----
 
 ### Fourth Year Engineering
 **Department of Computer Engineering**
