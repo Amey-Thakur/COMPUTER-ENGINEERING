@@ -247,8 +247,6 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[Reinforcement Learning Strategy](https://github.com/Amey-Thakur/Optimizing-Stock-Trading-Using-Reinforcement-Learning-DST)** · Technocolabs Intelligent Trading Internship
 - [x] **[Kaggle Courses](https://github.com/Amey-Thakur/KAGGLE-COURSES)** · Algorithmic Foundations & Data Science Mastery
 - [x] **[House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)** · Multivariate Regression Analysis & Predictive Modeling
-- [x] **[Unsupervised ML Mission](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING)** · The Sparks Foundation Internship
-- [x] **[Supervised ML Mission](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING)** · The Sparks Foundation Internship
 
 💼 **Professional Machine Learning Missions (TSF)**
 - [x] **[Unsupervised ML](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING)** · K-Means Clustering & Centroid Discovery
