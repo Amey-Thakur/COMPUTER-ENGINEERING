@@ -243,6 +243,10 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
+- [x] **[Hangman in Django](https://github.com/Amey-Thakur/HANGMAN-GAME-IN-DJANGO-PYTHON)** · RESTful Django Gameplay Implementation (Independent)
+- [x] **[Depression Detection](https://github.com/Amey-Thakur/DEPRESSION_DETECTION_USING_TWEETS)** · Predictive NLP Pipeline for Mental Health Analysis (Independent)
+- [x] **[Sentiment Analyzer](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)** · Hybrid NLP Sentiment Analysis Engine (Independent)
+- [x] **[Python Crash Course](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)** · 12-Day Python Mastery Challenge (Independent)
 - [x] **[Tic-Tac-Toe in Angular](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK)** · Angular Web Application
 - [x] **[JavaScript Frameworks](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS)** · Comparative Study of 10 Modern JS Frameworks
 - [x] **[React Todo App](https://github.com/Amey-Thakur/REACT-TODO-APP)** · React Web Application
