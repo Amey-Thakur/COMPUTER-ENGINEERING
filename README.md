@@ -232,13 +232,13 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[Hangman Word Game](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME)** · Object Oriented Programming (Semester III)
 
 > [!NOTE]
-> All projects listed above are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available within their respective repositories.
+> All projects listed in this repository are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available throughout the archive.
 
 ### Research Domains & Applied Engineering
-*A systematic archive of independent technical initiatives and research tracks established throughout the Computer Engineering program.*
+*A systematic archive of **proactive technical tracks** and **self-directed research initiatives** established beyond the core curriculum.*
 
 > [!TIP]
-> **[!] Strategic Learning Path**: Repositories in each track are sequenced to demonstrate the evolution from **algorithmic theory** to **production-grade implementation**.
+> **[!] Applied Research Methodology**: Unlike prescribed coursework, these tracks focus on **experimental application**, translating abstract theoretical concepts into functional, domain-specific architectures.
 
 🤖 **Artificial Intelligence & Neural Research**
 - [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
