@@ -358,7 +358,7 @@ Grateful acknowledgment to the faculty of **Terna Engineering College** for thei
 
 **Computer Engineering (M.Eng) - University of Windsor**
 
-*Semester-wise curriculum, laboratories, projects, and academic notes.*
+*An archival record of **graduate-level research** and **advanced engineering coursework**.*
 
 ---
 
@@ -366,6 +366,6 @@ Grateful acknowledgment to the faculty of **Terna Engineering College** for thei
 
 **Computer Engineering (B.E.) - University of Mumbai**
 
-*Semester-wise curriculum, laboratories, projects, and academic notes.*
+*The foundational archive of **baccalaureate studies** and **applied engineering labs**.*
 
 </div>
