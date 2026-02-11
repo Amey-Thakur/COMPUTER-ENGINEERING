@@ -232,9 +232,10 @@ A curated collection of engineering projects developed throughout the program, d
 > [!NOTE]
 > All projects listed above are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available within their respective repositories.
 
----
-
 ### Additional Initiatives
+
+> [!TIP]
+> **Mastery Index Navigation**: This section is organized by technical domain (e.g., **AI**, **Ruby**, **Mobile**). Foundations and Challenges precede full-scale implementations to demonstrate the complete learning curve.
 
 🤖 **Artificial Intelligence & Neural Research**
 - [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
