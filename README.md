@@ -236,6 +236,12 @@ A curated collection of engineering projects developed throughout the program, d
 
 ### Additional Initiatives
 
+- [x] **[Cloud Services Website](https://github.com/Amey-Thakur/CLOUD-SERVICES-WEBSITE)** · Human Machine Interaction (Semester VIII)
+- [x] **[Rock Paper Scissors](https://github.com/Amey-Thakur/ROCK-PAPER-SCISSORS)** · Human Machine Interaction (Semester VIII)
+- [x] **[The Math Game](https://github.com/Amey-Thakur/THE-MATH-GAME)** · Human Machine Interaction (Semester VIII)
+- [x] **[Math Sprint Game](https://github.com/Amey-Thakur/MATH-SPRINT-GAME)** · Human Machine Interaction (Semester VIII)
+- [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
+- [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
 
 ---
