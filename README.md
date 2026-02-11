@@ -243,6 +243,13 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[ATVM Interface](https://github.com/Amey-Thakur/ATVM-INTERFACE)** · Human Machine Interaction (Semester VIII)
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Big Data Analytics (Semester VII)
 - [x] **[Search Space Explore Extent](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)** · Web Designing Lab Component (Semester V)
+- [x] **[Reinforcement Learning Strategy](https://github.com/Amey-Thakur/Optimizing-Stock-Trading-Using-Reinforcement-Learning-DST)** · Technocolabs Machine Learning Internship
+- [x] **[Unsupervised Machine Learning](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING)** · The Sparks Foundation Machine Learning Internship
+- [x] **[Supervised Machine Learning](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING)** · The Sparks Foundation Machine Learning Internship
+- [x] **[Python Shorts](https://github.com/Amey-Thakur/PYTHON-SHORTS)** · Modular Algorithms, Logic Synthesis, and Computational Efficiency (100+ Programs)
+- [x] **[Deepfake Audio Synthesis](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO)** · Neural TTS Platform implementing Zero-Shot Voice Cloning (SV2TTS)
+- [x] **[Stock Trading Strategy RL](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING)** · Reinforcement Learning (Q-Learning) Portfolio Optimization Study
+- [x] **[House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)** · Multivariate Regression Analysis for Real Estate Precision Estimation
 - [x] **[Hangman in Django](https://github.com/Amey-Thakur/HANGMAN-GAME-IN-DJANGO-PYTHON)** · RESTful Django Gameplay Implementation (Independent)
 - [x] **[Depression Detection](https://github.com/Amey-Thakur/DEPRESSION_DETECTION_USING_TWEETS)** · Predictive NLP Pipeline for Mental Health Analysis (Independent)
 - [x] **[Sentiment Analyzer](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)** · Hybrid NLP Sentiment Analysis Engine (Independent)
