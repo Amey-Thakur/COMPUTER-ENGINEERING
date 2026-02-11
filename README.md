@@ -294,7 +294,7 @@ Grateful acknowledgment to the faculty of **Terna Engineering College** for thei
 <!-- FOOTER -->
 <div align="center">
 
-  **[↑ Back to Top](#computer-engineering)**
+  [↑ Back to Top](#computer-engineering)
 
   [◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [★ Project Showcase](#project-showcase) &nbsp;·&nbsp; [© License](#license)
 
