@@ -238,7 +238,7 @@ A curated collection of engineering projects developed throughout the program, d
 > **Mastery Index Navigation**: This section is organized by technical domain (e.g., **AI**, **Ruby**, **Mobile**). Foundations and Challenges precede full-scale implementations to demonstrate the complete learning curve.
 
 🤖 **Artificial Intelligence & Neural Research**
-- [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
+- [x] **[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** · Personal Research Space & Scholarly Notes
 - [x] **[Deepfake Audio Synthesis](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO)** · Neural TTS Zero-Shot Voice Cloning (SV2TTS)
 - [x] **[Sentiment Analyzer](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)** · Hybrid NLP Core & Sentiment Analysis Engine
 - [x] **[Depression Detection](https://github.com/Amey-Thakur/DEPRESSION_DETECTION_USING_TWEETS)** · Predictive Neural Pipeline for Mental Health Analysis
