@@ -369,5 +369,3 @@ Grateful acknowledgment to the faculty of **Terna Engineering College** for thei
 *The foundational archive of **baccalaureate studies** and **applied engineering labs**.*
 
 </div>
-
-
