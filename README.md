@@ -243,7 +243,7 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[ResearchGate Archive](https://github.com/Amey-Thakur/RESEARCHGATE)** · Technical Companion & Scholarly Mirror
 - [x] **[Deepfake Audio Synthesis](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO)** · Neural TTS Zero-Shot Voice Cloning (SV2TTS)
 - [x] **[Sentiment Analyzer](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)** · Hybrid NLP Core & Sentiment Analysis Engine
-- [x] **[Depression Detection](https://github.com/Amey-Thakur/DEPRESSION_DETECTION_USING_TWEETS)** · Predictive Neural Pipeline for Mental Health Analysis
+- [x] **[Depression Detection](https://github.com/Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS)** · Predictive Neural Pipeline for Mental Health Analysis
 
 📊 **Machine Learning & Predictive Analytics**
 - [x] **[Stock Trading Strategy RL](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING)** · Q-Learning Portfolio Optimization & Strategy Synthesis
