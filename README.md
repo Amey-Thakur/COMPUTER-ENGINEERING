@@ -337,7 +337,9 @@ This repository represents a comprehensive academic archive of my intellectual j
 **Program**: Bachelor of Engineering in Computer Engineering  
 **Duration**: 2018 - 2022
 
-Grateful acknowledgment to the faculty of **Terna Engineering College** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this four-year academic journey. Their contributions to my learning experience are deeply appreciated.
+Grateful acknowledgment to the faculty of **Terna Engineering College** for their pedagogical leadership. Their contributions to my learning experience are deeply appreciated.
+
+Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
