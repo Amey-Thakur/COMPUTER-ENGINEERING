@@ -52,10 +52,10 @@ The creation of this archive stems from a fundamental belief: **true learning tr
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To capture and maintain the depth of understanding developed across eight semesters of rigorous study
-- **Continuous Learning**: To create a resource that supports lifelong learning, enabling me to revisit fundamental principles as I encounter advanced challenges
-- **Academic Integrity**: To document my authentic academic journey - every concept studied, every project implemented, every problem solved
-- **Open Contribution**: To share these materials with the broader community, believing that knowledge grows when freely exchanged
+- **Knowledge Preservation**: To capture and maintain the depth of understanding developed across eight semesters of rigorous study.
+- **Continuous Learning**: To create a resource that supports lifelong learning, enabling me to revisit fundamental principles as I encounter advanced challenges.
+- **Academic Integrity**: To document my authentic academic journey - every concept studied, every project implemented, every problem solved.
+- **Open Contribution**: To share these materials with the broader community, believing that knowledge grows when freely exchanged.
 
 This is more than a collection of files or a digital archive. It is a testament to four years of intellectual growth, a record of challenges overcome, and a foundation upon which future learning will be built. By making this work publicly available, I hope it serves not only my own continued education but also assists others on their learning journeys.
 
