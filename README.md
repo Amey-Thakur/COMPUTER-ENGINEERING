@@ -71,9 +71,16 @@ The curriculum is organized chronologically by academic year and semester, progr
 > [!IMPORTANT]
 > **Companion Guide: [BE Computer Engineering Notes Labs and Projects](BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)**
 >
-> The whole degree in one document: eight semesters of subjects, the major projects and the recorded demonstrations, each entry opening the repository it names. Useful if you would rather read the catalogue in one pass than click through eighty repositories.
+> This degree in one document: eight semesters of subjects, the major projects and the recorded demonstrations, each entry opening the repository it names. Useful if you would rather read the catalogue in one pass than click through eighty repositories.
 >
 > [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-A6192E?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING/raw/main/BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)
+
+> [!NOTE]
+> **Both Degrees Together: [Computer Engineering Archive](Computer%20Engineering%20Archive.pdf)**
+>
+> The same catalogue extended across twelve semesters, adding the M.Eng at the University of Windsor to the B.E. at Terna. Read this one if you want the full path from the first year through to graduate study rather than a single degree.
+>
+> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](Computer%20Engineering%20Archive.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-2F3E4A?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING/raw/main/Computer%20Engineering%20Archive.pdf)
 
 > [!TIP]
 > Each **Course** and **Lab** link navigates directly to a dedicated repository containing extensive lecture notes, assignment solutions, and reference materials for that specific subject.
