@@ -71,6 +71,13 @@ The curriculum is organized chronologically by academic year and semester, progr
 > [!TIP]
 > Each **Course** and **Lab** link navigates directly to a dedicated repository containing extensive lecture notes, assignment solutions, and reference materials for that specific subject.
 
+> [!IMPORTANT]
+> **Companion Guide: [BE Computer Engineering Notes Labs and Projects](BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)**
+>
+> The whole degree in one document: eight semesters of subjects, the major projects and the recorded demonstrations, each entry opening the repository it names. Useful if you would rather read the catalogue in one pass than click through eighty repositories.
+>
+> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-A6192E?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING/raw/main/BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)
+
 ### First Year Engineering
 **Department of General Engineering**
 
@@ -257,8 +264,9 @@ A curated collection of engineering projects developed throughout the program, d
 
 🌐 **Full Stack Engineering & Distributed Computing**
 - [x] **[React Todo App](https://github.com/Amey-Thakur/REACT-TODO-APP)** · Modern SPA Architecture & React Implementation
-- [x] **[Tic-Tac-Toe in Angular](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK)** · Enterprise-Scale Angular Framework Implementation
-- [x] **[JavaScript Frameworks](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS)** · Comparative Study of 10 Modern SPA Paradigms
+- [x] **[Tic-Tac-Toe in Angular](https://github.com/Amey-Thakur/TIC-TAC-TOE)** · Enterprise-Scale Angular Framework Implementation
+- [x] **[JavaScript Frameworks](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS-TODO-APPS)** · Comparative Study of 10 Modern SPA Paradigms
+- [x] **[Cloud Services Website](https://github.com/Amey-Thakur/CLOUD-SERVICES-WEBSITE)** · Static Cloud Services Site & Responsive Layout
 - [x] **[Hangman in Django](https://github.com/Amey-Thakur/HANGMAN-GAME-IN-DJANGO-PYTHON)** · RESTful Backend Architecture & Django Sync
 - [x] **[Hadoop](https://github.com/Amey-Thakur/HADOOP)** · Distributed Computing & Big Data Analytics (Semester VII)
 
