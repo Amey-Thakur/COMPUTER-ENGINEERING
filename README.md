@@ -80,7 +80,7 @@ The curriculum is organized chronologically by academic year and semester, progr
 >
 > The same catalogue extended across twelve semesters, adding the M.Eng at the University of Windsor to the B.E. at Terna. Read this one if you want the full path from the first year through to graduate study rather than a single degree.
 >
-> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](Computer%20Engineering%20Archive.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING/raw/main/Computer%20Engineering%20Archive.pdf)
+> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](Computer%20Engineering%20Archive.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-533762?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING/raw/main/Computer%20Engineering%20Archive.pdf)
 
 > [!TIP]
 > Each **Course** and **Lab** link navigates directly to a dedicated repository containing extensive lecture notes, assignment solutions, and reference materials for that specific subject.
