@@ -68,15 +68,15 @@ This is more than a collection of files or a digital archive. It is a testament 
 
 The curriculum is organized chronologically by academic year and semester, progressing from foundational engineering principles to advanced computing specializations.
 
-> [!TIP]
-> Each **Course** and **Lab** link navigates directly to a dedicated repository containing extensive lecture notes, assignment solutions, and reference materials for that specific subject.
-
 > [!IMPORTANT]
 > **Companion Guide: [BE Computer Engineering Notes Labs and Projects](BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)**
 >
 > The whole degree in one document: eight semesters of subjects, the major projects and the recorded demonstrations, each entry opening the repository it names. Useful if you would rather read the catalogue in one pass than click through eighty repositories.
 >
 > [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-A6192E?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING/raw/main/BE%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)
+
+> [!TIP]
+> Each **Course** and **Lab** link navigates directly to a dedicated repository containing extensive lecture notes, assignment solutions, and reference materials for that specific subject.
 
 ### First Year Engineering
 **Department of General Engineering**
