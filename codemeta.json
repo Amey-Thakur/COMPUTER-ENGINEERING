@@ -1,0 +1,75 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "COMPUTER-ENGINEERING",
+    "description": "B.E. Computer Engineering - University of Mumbai Academic Repository (2018-2022)",
+    "identifier": "COMPUTER-ENGINEERING",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2022-12-16",
+    "dateReleased": "2023-02-23",
+    "codeRepository": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "keywords": [
+        "Academic Archive",
+        "Computer Engineering",
+        "Computer Engineering Lab",
+        "Computer Engineering Notes",
+        "Course Materials",
+        "Curriculum",
+        "Education",
+        "Engineering",
+        "India",
+        "Learning Resources",
+        "Projects",
+        "Study Notes",
+        "Terna Engineering College",
+        "Undergraduate",
+        "University Of Mumbai",
+        "University of Mumbai",
+        "Mumbai University",
+        "Navi Mumbai",
+        "B.E. Computer Engineering",
+        "Purpose",
+        "Target Audience",
+        "Academic Integrity",
+        "Open Contribution",
+        "Course",
+        "Lab",
+        "Department of General Engineering",
+        "Department of Computer Engineering",
+        "Quadtree Visualizer",
+        "Applied Research Methodology",
+        "For Students",
+        "For Educators",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ],
+    "url": "https://amey-thakur.github.io/"
+}

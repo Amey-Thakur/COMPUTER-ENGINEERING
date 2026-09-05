@@ -1,0 +1,32 @@
+# Computer Engineering
+
+> B.E. Computer Engineering - University of Mumbai Academic Repository
+> (2018-2022)
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 16 December 2022
+Work dated: 23 February 2023
+
+## What is in this repository
+
+- BE Computer Engineering Notes Labs and Projects.pdf
+- university-of-mumbai-logo.png
+- youtube-icon.png
+
+## Subject terms
+
+academic-archive, computer-engineering, computer-engineering-lab,
+computer-engineering-notes, course-materials, curriculum, education,
+engineering, india, learning-resources, projects, study-notes,
+terna-engineering-college, undergraduate, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
